@@ -1,9 +1,11 @@
-<Page loaded="myPageWasLoaded">
+<Page loaded="onLoaded">
     <Page.actionBar>
         <ActionBar title="Mój heder"/>
     </Page.actionBar>
-
-    <Button 
-        text="My First Button" 
-        onTap="myButton"/>
+    
+    <GridLayout>
+        <GridLayout id="game">
+            <label id="meta" text="Something" />
+        </GridLayout>
+    </GridLayout>
 </Page>
