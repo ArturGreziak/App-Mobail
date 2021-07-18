@@ -1,0 +1,9 @@
+<Page loaded="myPageWasLoaded">
+    <Page.actionBar>
+        <ActionBar title="Mój heder"/>
+    </Page.actionBar>
+
+    <Button 
+        text="My First Button" 
+        onTap="myButton"/>
+</Page>
