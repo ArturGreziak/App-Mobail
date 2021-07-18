@@ -8,12 +8,14 @@
 
 #game {
   background-color: chocolate;
+  
 }
 
 #meta {
+  width: 500px;
   font-family: monospace;
-  font-size: 72px;
-  
+  font-size: 40px;
+  margin: 0 auto;
   vertical-align: top; 
   margin: 10px;
 }

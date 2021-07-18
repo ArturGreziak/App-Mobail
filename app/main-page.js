@@ -14,9 +14,9 @@ world.add(Physics.renderer('ns', {
   meta: true
 }))
 
-// setInterval(() => {
-//   wold.render()
-// }, 17);
+setInterval(() => {
+  wold.render()
+}, 17);
 
 // import { createViewModel } from "./main-view-model";
 
